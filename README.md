@@ -17,9 +17,18 @@ Internee.pk aims to bridge the gap between talented individuals and the thriving
 
 We have integrated a chatbot into Internee.pk to enhance user interaction and provide support. The chatbot, developed with the help of Kommunicate, assists users with queries regarding internship opportunities, course details, and more.
 
-## About SMIT Hackathon
+## Internee.pk AI Technical Troubleshooting Assistant
+## Project Overview
+The Internee.pk AI Technical Troubleshooting Assistant is designed to assist users in troubleshooting common technical issues using artificial intelligence. Built on the Kommunicate platform, this AI interacts with users, asks diagnostic questions, provides solutions, and offers links to detailed guides or tutorials. The assistant also integrates with social media channels such as Facebook Messenger, Twitter, and WhatsApp for seamless user support.
 
-This project is part of the Saylani Mass IT Training (SMIT) Final Hackathon, where participants develop innovative solutions to real-world challenges in the IT sector. Internee.pk represents our commitment to fostering talent and facilitating career growth in technology.
+## Features
+AI Interaction: Engages users in troubleshooting dialogs.
+Diagnostic Questions: Asks relevant questions to diagnose issues.
+Solution Suggestions: Provides solutions based on identified problems.
+Guide and Tutorial Links: Offers links to detailed guides and tutorials.
+Social Media Integration: Supports user assistance via Facebook Messenger, Twitter, and WhatsApp.
+Implementation
+The AI assistant is integrated into the Internee.pk website, enhancing user experience by providing immediate technical support and guidance. It leverages AI capabilities to streamline issue resolution and empower users with actionable solutions.
 
 ## Contact
 
